@@ -35,22 +35,22 @@ This is a bookstore management system written in Java. It can handle different t
 ## Screenshots
 
 ### Test 1: Adding Books
-![Adding books test](screenshots/addbooks.png)
+![Adding books test](src/screenshots/addbooks.png)
 
 ### Test 2: Buying Paper Book
-![Buying paper book test](screenshots/buyPaperBook.png)
+![Buying paper book test](src/screenshots/buyPaperBook.png)
 
 ### Test 3: Buying E-Book
-![Buying e-book test](screenshots/buyebook.png)
+![Buying e-book test](src/screenshots/buyebook.png)
 
 ### Test 4: Showcase Book Error
-![Showcase book error test](screenshots/showcasebook.png)
+![Showcase book error test](src/screenshots/showcasebook.png)
 
 ### Test 5: Insufficient Stock Error
-![Insufficient stock test](screenshots/insuffecientStock.png)
+![Insufficient stock test](src/screenshots/insuffecientStock.png)
 
 ### Test 6: Remove Old Books
-![Remove old books test](screenshots/removeOldBook.png)
+![Remove old books test](src/screenshots/removeOldBook.png)
 
 ## Notes
 - E-books don't run out of stock
